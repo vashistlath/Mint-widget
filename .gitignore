@@ -1,0 +1,27 @@
+# Autumn - Linux system widget
+
+# Compiled executable
+linux widget 
+
+# Object files
+*.o
+
+# Generic compiled outputs
+*.out
+
+# Logs
+*.log
+
+# Build directories
+build/
+
+# VS Code settings
+.vscode/
+
+# Temporary/editor swap files
+*.swp
+*.swo
+*~
+
+# macOS metadata (harmless on Linux)
+.DS_Store
